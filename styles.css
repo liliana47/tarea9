@@ -1,0 +1,16 @@
+header{
+    background-color: rgb(233, 122, 255);
+    padding: 15px;
+    text-align: center;
+    color: azure;
+    border-radius: 15px;
+}
+
+nav a{
+    text-align: center;
+    color: blueviolet;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
